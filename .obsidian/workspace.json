@@ -105,14 +105,38 @@
             "id": "4ab52a1d68f10f50",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Read Later.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a2bf77b3ef47c37f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Read Later.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b981fcac08a89887",
+            "type": "leaf",
+            "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/child architecture.excalidraw.md"
+                "file": "Excalidraw/Sleep architecture.excalidraw.md"
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -178,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/child architecture.excalidraw.md",
+                "file": "Read Later.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/child architecture.excalidraw.md",
+                "file": "Read Later.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/child architecture.excalidraw.md"
+                "file": "Read Later.md"
               }
             }
           }
@@ -240,19 +264,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4ab52a1d68f10f50",
+  "active": "a2bf77b3ef47c37f",
   "lastOpenFiles": [
-    "kinda-studies",
-    "Electronic health record.md",
+    "Watch later.md",
+    "Excalidraw/Sleep architecture.excalidraw.md",
     "Read Later.md",
     "Sources.md",
+    "Excalidraw/child architecture.excalidraw.md",
+    "kinda-studies",
+    "Electronic health record.md",
     "Tasks.md",
     "дофамин.md",
     "кофеин и всякие рецепторы.md",
     "templates/base.md",
     "рецепторы аденозина.md",
     "тирозин.md",
-    "Excalidraw/child architecture.excalidraw.md",
     "Excalidraw",
     "templates",
     "Welcome.md"

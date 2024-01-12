@@ -1,2 +1,5 @@
 - [ ] https://sleepdoctor.com/how-sleep-works/polyphasic-sleep/
-- [ ] 
+- [ ] [Нерегулярный сон хуже для здоровья, чем непродолжительный](https://neuronovosti.ru/neregulyarnyj-son-huzhe-dlya-zdorovya-chem-neprodolzhitelnyj/)
+- [ ] [slow wave sleep](https://en.wikipedia.org/wiki/Slow-wave_sleep)
+- [ ] [темный период](https://polysleep.org/wiki/Dark_period/ru)
+- [ ] https://www.sleepfoundation.org/how-sleep-works/polyphasic-sleep
